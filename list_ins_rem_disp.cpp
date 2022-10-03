@@ -13,7 +13,7 @@ int main()
     l1.push_front(30);
     l1.push_front(40);
     l1.push_front(50);
-    l1.push_front(60);
+    l1.push_front(34);
     l1.push_back(70);
     l1.push_back(80);
     l1.push_back(90);
